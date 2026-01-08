@@ -13,6 +13,4 @@ https://www.figma.com/design/fTzuNq9nRCg1sTRTxZzukx/AccuKnox_Alert_Triage_Workfl
 
 
 ## Overview
-The design focuses on helping security analysts review alerts,
-verify true threats vs false positives, and take response actions
-through a simple and clear workflow.
+This project presents a simple and practical Alert Triage Workflow designed for a cloud security platform. The workflow helps security analysts efficiently review incoming alerts, verify whether they are true threats or false positives, and take appropriate response actions. The design focuses on reducing alert fatigue, improving decision-making, and enabling faster and more accurate alert resolution through a clear, step-by-step flow.
