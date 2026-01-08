@@ -1,2 +1,13 @@
-# Alert-Triage-Accuknox
-This repository contains low-fidelity wireframes and documentation for an alert triage workflow designed for a cloud security platform like AccuKnox. The design focuses on helping security analysts efficiently review alerts, verify true threats versus false positives, and take appropriate response actions with a simple and clear user flow.
+# Alert Triage Workflow – AccuKnox
+
+This repository contains wireframes and design documentation
+for an Alert Triage Workflow designed for a cloud security platform.
+
+## Figma Design
+🔗 View the wireframes here:
+https://www.figma.com/design/fTzuNq9nRCg1sTRTxZzukx/AccuKnox_Alert_Triage_Workflow?node-id=1-320&t=OnujGewRfFfUCq3Y-1
+
+## Overview
+The design focuses on helping security analysts review alerts,
+verify true threats vs false positives, and take response actions
+through a simple and clear workflow.
