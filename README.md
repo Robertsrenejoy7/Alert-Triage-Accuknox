@@ -4,7 +4,7 @@ This repository contains wireframes and design documentation
 for an Alert Triage Workflow designed for a cloud security platform.
 
 ## Figma Design
-🔗 View the wireframes here:
+🔗 View the Screen wireframes here:
 https://www.figma.com/design/fTzuNq9nRCg1sTRTxZzukx/AccuKnox_Alert_Triage_Workflow?node-id=1-320&t=OnujGewRfFfUCq3Y-1
 
 ## Overview
